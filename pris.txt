@@ -1,0 +1,428 @@
+Our Product list:
+1)HRM
+https://produts.prismatic-technologies.com/HRMS_Brochure_Prismatic.pdf
+https://prismatic-technologies.com/hrm-software-services
+2)Accounting Software ERP
+https://produts.prismatic-technologies.com/ERP_Brochure_prismatic.pdf
+3)Property Management
+https://produts.prismatic-technologies.com/prismatic-property-management-brochure.pdf
+4)LMS for Educators
+https://produts.prismatic-technologies.com/LMS_prismatic.pdf
+5)CRM and Lead Management Software
+https://produts.prismatic-technologies.com/CRM-Brochure-prismatic.pdf
+6)Point of Sale (POS)
+https://prismatic-technologies.com/pos-software-services
+7)Order Management 
+https://produts.prismatic-technologies.com/Order_Management_prismatic.pdf
+8)Task Mananger
+
+our services list:
+1)Mobile App Developement
+https://www.behance.net/prismatictechnology
+https://prismatic-technologies.com/mobile-app-development
+2)Website Developement
+https://www.behance.net/prismatictechnology
+https://prismatic-technologies.com/e-commerce-service
+3)Prismatic Digital Marketing
+https://prismatrix.co/
+https://www.linkedin.com/smart-links/AQFOX8KpsOI-0g
+4)Search Engine Optimization
+https://prismatrix.co/
+5)Shopify and WordPress relevant sevices:
+🟢 General Response (for both platforms)
+"At Prismatic Technologies, we offer complete end-to-end solutions on both Shopify and WordPress platforms. Whether you're just starting out or looking to scale, our team handles everything from design and development to optimization and support. Let us know what you need, and we'll make it happen."
+🛒 Shopify – Response Templates
+1. Store Setup & Launch
+"Yes, we help businesses set up professional Shopify stores from scratch, including theme selection, basic configurations, product uploads, and essential app installations to get you live and selling quickly."
+2. Theme Customization
+"We offer full theme customization services on Shopify – whether it's visual changes, layout modifications, or feature enhancements, we tailor your store to match your brand perfectly."
+3. Custom App Development
+"Need a custom feature? We develop Shopify apps tailored to your needs – from private apps to public app submissions on the Shopify App Store."
+4. Third-Party Integrations
+"We seamlessly integrate third-party services like CRMs, payment gateways, logistics providers, marketing tools, and more into your Shopify store."
+5. Performance Optimization
+"We optimize your Shopify store for speed, performance, and mobile responsiveness to ensure a smooth shopping experience for your customers."
+6. SEO & Marketing Setup
+"Our team improves your Shopify store’s search engine visibility using structured SEO practices, along with setting up email campaigns, analytics, and marketing tools."
+7. Ongoing Support & Maintenance
+"We offer ongoing Shopify support, including updates, bug fixes, new feature requests, and emergency assistance whenever needed."
+🌐 WordPress – Response Templates
+1. Website Development
+"We design and develop stunning, responsive WordPress websites tailored to your business. Whether you need a blog, portfolio, corporate site, or anything else – we've got you covered."
+2. Theme Customization
+"We work with any WordPress theme and page builder (like Elementor, Divi, WPBakery) to customize the look and functionality exactly how you want it."
+3. Plugin Development & Fixes
+"We build and modify WordPress plugins to extend your website's capabilities. We also troubleshoot and fix plugin conflicts or errors."
+4. WooCommerce Store Setup
+"We develop complete WooCommerce stores, including product setup, shipping methods, payment gateways, and checkout customizations for a smooth shopping experience."
+5. Security & Backup
+"We secure your WordPress site with firewall protection, regular backups, malware scans, and SSL integration to keep your data safe."
+6. Performance Optimization
+"We improve your WordPress site’s performance through caching, image optimization, lazy loading, and other speed-enhancing techniques."
+7. SEO & Analytics
+"We set up on-page SEO, install and configure SEO plugins like Yoast or RankMath, and connect your site with Google Analytics and Search Console for performance tracking."
+8. Migration & Hosting
+"Whether you're moving from another CMS or switching hosts, we handle complete WordPress migration with zero downtime and data loss."
+9. Monthly Maintenance & Support
+"Our WordPress maintenance plans cover updates, security checks, backups, content edits, and priority support so your site always runs smoothly."
+Customer Inquiry About CRM:
+Customer: "What is the best CRM software for a small business?"
+Response: "Prismatic’s Customer Relationship Management (CRM) solution is designed to meet the needs of businesses of all sizes, including small businesses. It offers streamlined lead management, analytics, and integration with your existing tools. For more details, visit www.prismatic-technologies.com."
+Technical Issue:
+Customer: "I am experiencing issues with the POS system not syncing inventory."
+Response: "I’m sorry to hear that. Let me help! Please ensure the internet connection is stable and the system is updated. If the issue persists, I’ll escalate this to our technical team for a prompt resolution. May I gather a few more details?"
+General Inquiry:
+Customer: "Can you recommend an LMS for employee training?"
+Response: "Certainly! Prismatic’s Learning Management System (LMS) is an excellent solution for employee training. It offers user-friendly interfaces, progress tracking, and customization to fit your organization’s needs. You can learn more at www.prismatic-technologies.com."
+Improvement Notes
+Keep the script dynamic and responsive to evolving business needs.
+Add specific FAQs or guides based on feedback and recurring queries.
+Ensure updates reflect new products or service enhancements.
+With this framework, your Botpress-powered support agent will maintain professionalism, foster trust, and drive customer satisfaction for Prismatic Technologies Limited!
+Prismatic technologies Contact Details
+Tel: +92 307 888 1432
+Pakistan
+71-C3 Gulberg III Lahore, Pakistan
+Saudi Arabia
+RFKA8374, 8374 Salman Al Farisi, 4251 Al Khaleej Dist, 13223 Riyadh, Kingdom of Saudi Arabia info@prismatic-technologies.com
+Prismatic Technologies Limited
+Technology Stack one show some of from the list below if customer wants a complete then show whole list
+Backend
+• Languages & Frameworks:
+o .NET
+o Node.js
+o Django
+o Flask
+o PHP
+o Laravel
+o CodeIgniter
+o Express.js
+Frontend
+• Frameworks & Libraries:
+o React.js
+o Vue.js
+o Angular
+o React-konva
+o jQuery
+• UI Frameworks:
+o Bootstrap
+o Tailwind CSS
+o Material-UI (MUI)
+Database
+• Relational Databases:
+o Microsoft SQL Server
+o MySQL
+o PostgreSQL
+• NoSQL Databases:
+o MongoDB
+o Firebase Realtime Database
+
+CMS, Tools and services
+• E-commerce Platforms:
+o Shopify
+o WooCommerce
+o Magento
+o BigCommerce
+o WordPress
+• Testing & Debugging:
+o Jest
+o Selenium
+o Postman
+o SonarQube
+DevOps
+• Cloud Platforms:
+o Amazon Web Services (AWS)
+o Microsoft Azure
+o Google Cloud Platform (GCP)
+o Digital Ocean
+o Contabo
+o Database Mart
+• CI/CD Tools:
+o Jenkins
+o GitHub Actions
+o GitLab CI/CD
+• Containerization:
+o Docker
+o Kubernetes
+• Monitoring & Logging:
+o Prometheus
+o Grafana
+o ELK Stack (Elasticsearch, Logstash, Kibana)
+o New Relic
+• Version Control & Collaboration:
+o Git
+o GitHub
+o Bitbucket
+o GitLab
+Mobile Development
+• Native Development:
+o Swift (iOS)
+o Kotlin (Android)
+o Java (Android)
+• Cross-Platform Development:
+o Flutter
+o React Native
+Artificial Intelligence & Machine Learning
+• Languages & Frameworks:
+o Python
+o TensorFlow
+o PyTorch
+o Scikit-learn
+• Cloud AI Services:
+o AWS SageMaker
+o Google AI Platform
+• AI APIs & Tools:
+o OpenAI APIs
+o Dialogflow
+Messaging & Communication
+• Real-Time Messaging:
+o WebSocket
+o Firebase
+o SignalR
+o One Signal
+• Messaging APIs:
+o Twilio
+o WhatsApp Business API
+o OrbitSend API
+Design & Prototyping (view https://www.behance.net/prismatictechnology profile link)
+• Design Tools & Implementation:
+o Figma (Design-to-Code Implementation)
+o Adobe XD (Prototyping and Development Handoff)
+
+
+Our Portfolios Links
+Play store https://play.google.com/store/apps/developer?id=Prismatic+Technologies
+Behance https://www.behance.net/prismatictechnology
+
+Kashif Ali – Chief Technology Officer & Co-Founder
+A seasoned leader with over seven years of experience in web development, mobile applications, and SaaS-based solutions. Kashif has been instrumental in driving technological advancements and ensuring client satisfaction.
+
+Muhammad Safdar – Co-founder and Director
+“Our business growth is based on the fact that you have an honest desire to help someone else.”
+With this philosophy, Muhammad Safdar has been a cornerstone in establishing Prismatic’s strong foundation and commitment to excellence.
+
+Muhammad Nouman – Business Analyst & Functional Support
+With an eye for detail and a commitment to client success, Muhammad Nouman bridges the gap between business needs and technical solutions. His expertise ensures our solutions are always aligned with customer requirements and market trends.
+
+Muhammad Ahmad - DevOps Engineer	
+Skilled in a wide range of Linux distributions, including Red Hat, Ubuntu, and Kali, with hands-on experience in deploying, configuring, and optimizing Linux and windows servers for peak performance and security. 
+
+Bilal Javed – Senior Front-End Developer
+An expert in crafting dynamic and responsive user interfaces, Bilal Javed ensures an exceptional user experience across all our applications. His dedication to detail and innovative approach drives the aesthetic and functional excellence of our solutions.
+
+Transform Your Business with a Customized ERP Solution
+Experience the power of a fully customized ERP system designed to meet your unique business needs. Our ERP integrates essential industry-specific solutions, catering to sectors like Trading, Manufacturing, Healthcare, Education, Hospitality, Logistics, E-commerce, Real Estate, Agriculture, Automotive, Food and Beverage, Pharmaceuticals, and more into one seamless platform. Whether you require bespoke development or ready-to-use modules, our solution enhances efficiency, ensures scalability, and provides real-time data insights for smarter decision-making.
+
+CRM: Build Stronger Connections with Our Customer Relationship Management (CRM) system that are designed to streamline client interactions, boost sales efficiency, and drive business growth for every industry.
+
+HRMS: Streamlines HR processes, from payroll and attendance to recruitment and performance tracking. Designed for efficiency, it helps businesses manage their teams with ease and focus on growth.
+
+LMS: Empower learning with our Learning Management System (LMS) that provides a seamless platform for organizations to deliver, track, and manage training programs and help organizations to enhance learning experiences and boost growth efficiently.
+
+POS: Simplify sales with our POS System streamlines the checkout process, making transactions faster and more efficient. With features like real-time inventory tracking, sales reporting, and easy payment processing, help businesses to improve efficiency and customer experience.
+
+E-Commerce: Boost your business with our E-Commerce solutions that help you to create a seamless online shopping experience, from user-friendly websites to secure payment systems. We provide everything you need to grow your online store and increase sales.
+
+Mobile App: Enhance your business with Custom Mobile App services to create tailored iOS and Android apps that provide seamless user experiences, helping businesses engage customers and improve efficiency.
+
+Digital Marketing: Transform Your Online Presence with Dynamic Digital Marketing  We help businesses reach their audience, improve online visibility, and drive engagement. From SEO and social media to pay-per-click and content creation, our strategies deliver results and support long-term growth.
+
+Order Management*
+
+Travel & Tour CRM*
+About Us
+Our mission is to transform businesses with innovative technology, uncover opportunities, and unlock limitless potential 
+
+Prismatic Technologies is a leading software solutions provider with 5+ years of experience, specializing in custom apps, e-commerce platforms, digital marketing, and IT services. We focus on empowering businesses through tailored solutions that drive digital transformation, foster innovation, and support sustainable growth.
+
+About Prismatic Technologies Limited
+
+Since 2018, Prismatic Technologies Limited has been on a mission to deliver top-notch software solutions. Started with a powerful ERP system to simplify business operations has grown into a thriving tech company, driving innovation and success. 
+
+Founded as technical partner of Tariq Abdul Ghani Maqbool & Co, Chartered Accountants with a vision to empower businesses through digital transformation. Prismatic primarily launched ERP systems, designed to simplify workflows, enhance productivity, and enable smarter decision-making and with rapid successful implementations across renowned industries & sectors, Prismatic extended its IT Products Range to
+
+2018 
+Recognizing the unique challenges faced by businesses across industries, we expanded our portfolio to include POS systems,  and e-commerce integration features, solidifying our reputation as a trusted partner for operational excellence.	2020 
+The launch of CRM and HRMS solutions marked a pivotal milestone in our growth. This software empowers organizations to strengthen customer relationships, optimize workforce management, and achieve strategic goals.
+
+2021
+As demand for our solutions grew, we opened our first international office in Saudi Arabia, establishing a direct connection with clients in the Middle East and reinforcing our global presence.
+	
+2019
+We introduced a cutting-edge Learning Management System (LMS) to revolutionize corporate training and education, further diversifying our offerings for a digital-first world.
+
+ 
+2022-2023
+With a newly established office in the US, Prismatic has expanded its reach internationally.We provide tailored solutions, including digital marketing services, to industries like real estate, healthcare, education, and more, helping clients all over the world.
+
+Explore Our Services
+We offer a wide range of services to help businesses of all sizes grow and succeed. Our services include:
+
+•	Enterprise Resource Planning (ERP)
+•	Learning Management System (LMS)
+•	Lead Management CRM
+•	Real Estate CRM
+•	Travel & Tour CRM
+•	Order Management Application
+•	Project Management Application
+•	HRMS Application
+•	Website Development (Custom, Shopify, WordPress, etc.)
+•	iOS (Mac) and Android Mobile Applications
+•	Customized IT Solutions
+•	IT Services: Projects, UI/UX, DevOps, IT Networking, SQA, Digital Marketing Services
+Join Us 
+Headquartered in Lahore, Pakistan, Prismatic Technologies Limited continues to break boundaries and set standards in the software industry. Partner with us to explore what’s possible when vision meets technology, and together, let’s shape a brighter, smarter future.
+Our Satisfied Clients
+Meet Our Team Members 
+
+
+Privacy Policy 
+At Prismatic Technologies, we prioritize your privacy and the security of your data. This Privacy Policy explains the types of information we collect, how we use it, and how we protect your privacy when you visit our website, accessible at https://prismatic-technologies.com/.This policy applies only to information collected online and does not apply to information collected offline.
+
+Information We Collect
+When you visit our website, we may collect personal information such as your email address. We make it clear when we ask for your personal information and prioritize security by recommending strong passwords and utilizing secure encryption methods to protect your data.
+
+Adult Content and Compliance with Regulations
+We maintain strict content moderation policies to ensure compliance with relevant regulations and prevent adult content on our site. Our content review processes are thorough to ensure a safe, respectful environment.
+
+How We Use Your Information
+We use the information we collect to:
+•	Provide, operate, and maintain our website
+•	Improve and personalize your experience
+•	Understand how you use our site to develop new features
+•	Communicate with you, including customer support, updates, and marketing
+•	Send you relevant emails
+•	Prevent fraud
+
+GDPR Data Protection Rights
+We respect your data protection rights under the GDPR and offer the following rights:
+•	Access your data
+•	Request data correction or completion
+•	Request data deletion under specific conditions
+•	Request data processing restrictions
+•	Object to data processing
+•	Request data portability
+•	To exercise any of these rights, please contact us directly.
+
+CCPA Privacy Rights
+Under the CCPA, California residents have the right to:
+
+
+•	Request information about the data collected
+•	Request data deletion
+•	Opt-out of data sales
+
+Please contact us if you wish to exercise these rights; we will respond within one month.
+
+Third-Party Privacy Policies
+Our Privacy Policy does not apply to third-party websites or advertisers. We recommend reviewing their respective Privacy Policies for more information about their practices and opt-out options.
+
+Children’s Privacy
+We do not knowingly collect personal information from children under the age of 13. If you believe your child has shared personal data on our site, please contact us immediately so we can remove it from our records.
+
+Employees or team information List:
+1-Muhammad Mubashir our Full Stack Developer with skills as: ASP.NET, ASP.NET Core,Web API’s, SQL Server, Angular JS, ReactJS, JavaScript, AJAX, jQuery, Bootstrap, HTML5	4 Years	
+2-Haseeb Nadeem	our Front-end Developer with skills: HTML5, CSS3, Bootstrap5, JavaScript, Figma to HTML convert  3 Years
+3-Bilal Javaid	our Front-end Developer	with skills: HTML5, CSS3, Bootstrap5, JavaScript, Figma to HTML convert,WordPress Website Development,Shopify Store Designing and Development	4 Years	
+4-Muhammad Nouman our Business Analyst with skills: Project Scrum Planning, Implementation Head	4.5 years
+5-ZAIN ALI our Full Stack Developer with skills: HTML5, CSS3, Bootstrap5, JavaScript,PHP Laravel, jQuery, MySQL, SQLSRV 5 Years	
+6-Saima Shammas our Backend Developer with skills: HTML5, CSS3, Bootstrap5, JavaScript,PHP Laravel, jQuery, MySQL, SQLSRV 3 years
+7-KASHIF ALI our CTO with skills: GitHub Pipeline, New technologies trends, technical analysis, Solution for the blockers, Laravel, Django, React, Vue, My Sql, SQL Server, Firebase, Third party integration/services	6 years	
+8-M Athar Riaz	our Full Stack Developer with skills: PHP, Laravel, Vanilla JavaScript, Vue JS, React JS, jQuery, GitHub, Docker, SQL, NoSQL, HTML, Bootstrap, Bulma, Tailwind, Sass, ScSS, Ajax, API’s, Restful API’s, Webpack	5 years	32102-7453099-1
+9-Sidra Nawazish our Front-End Developer with skills :HTML5, CSS3, Bootstrap5, JavaScript, Figma to HTML convert	3 Years	33303-8985935-4
+10-Saeed ullah Saif our Full Stack Developer with skills: ASP.NET, ASP.NET Core, Web API’s,SQL Server, Angular JS, ReactJS, JavaScript, AJAX, jQuery, Bootstrap, HTML5   	3 Years	
+11-Ahtesham our	.Net developer with skills: .net core, .net framework, angular, angular js	5 years
+12-Mohsin Kamal	our React Native Developer with skills:	Vs Code, Android Studio, Java script, Type Script, Firebase, Apis	3 years	
+13-Aqib Khan our Laravel Developer with skills: Laravel, Php,3rd party API’s, HTML, CSS	3 years	
+14-Ali Abdullah	our React Native Developer with skills: Vs Code, Android Studio, Java script, Type Script, Firebase, Apis	3 years	
+15-Ayesha our SQA Engineer with skills: Manual testing, Automation testing, Database, API, Java core, Performance testing, Backend, UI/UX	3 years	
+16-Muhammad Hamza our AI/Ml Engineer with skills: Ml, AI , GenAI and AI automation specialist with 2 two years of experties.
+17-Muhammad Ahmad our DevOps Engineer with skills: Linux & Window Server Admin, CI/CD(Jenkins, GitHub Actions), Docker, Kubernetes, AWS	3 years	
+18-Hamad Tariq our IT Infrastructure and DevOps Engineer with skills: Networking, System Administration, Cloud Support, IT Operations, OS Virtualization, ITIL framework and Scripting (Bash & Python)	3.5 Years
+19-Abdul Wahab Qamar our Front End Developer with skills: HTML5, CSS3, JavaScript, Vue.js, React.js and Rest Api’s Integration	3 Years
+20-Maqsud Ur Rehman our Full Stack Developer with skills: C#, ASP.NET, ASP.NET Core,Web API’s,SQL Server, Angular JS, Angular TypeScript, JavaScript, AJAX, jQuery, Bootstrap, HTML5   	3 Years	
+
+Prismatic Technologies Limited Empowering Businesses through Tailored Digital Solutions
+About Us Established in 2019 and headquartered in Lahore, Pakistan, Prismatic Technologies Limited stands at the forefront of innovative software development. We specialize in delivering customized, scalable, and cutting-edge digital solutions that drive business transformation globally. Our mission is to empower enterprises by providing robust, high-performance software systems that streamline operations, enhance productivity, and foster sustainable growth.
+Our Services We offer a comprehensive portfolio of technology services designed to address the diverse needs of modern businesses across various industries:
+•	Enterprise Resource Planning (ERP) Systems Our ERP solutions integrate critical business functions such as finance, inventory, procurement, and human resources into a unified platform. By automating routine tasks, facilitating cross-departmental collaboration, and enhancing data visibility, our ERP systems enable businesses to optimize resource utilization and drive operational efficiency.
+•	Customer Relationship Management (CRM) Software Our CRM platforms are designed to foster deeper customer engagement, improve sales pipelines, and boost customer retention. By enabling personalized communication, data-driven insights, and streamlined workflows, our CRM solutions empower businesses to elevate customer satisfaction and loyalty.
+•	Learning Management Systems (LMS) We provide LMS solutions that support the creation, management, and delivery of effective online learning experiences. Whether for educational institutions or corporate training programs, our platforms enable seamless e-learning, course management, and performance tracking, driving both learner engagement and institutional growth.
+•	Mobile Application Development Our team excels in creating both consumer-facing and enterprise-grade mobile applications. From conceptualization to deployment, we provide end-to-end mobile app development solutions that are user-centric, feature-rich, and tailored to meet the specific needs of businesses, ensuring enhanced user experiences across iOS and Android platforms.
+•	E-Commerce Solutions We specialize in e-commerce development that enhances businesses' online presence and operational efficiency. Our tailored e-commerce platforms integrate seamlessly with backend systems, offering businesses robust features such as secure payment gateways, inventory management, and customer analytics to ensure a seamless shopping experience and growth in sales.
+•	Point of Sale (POS) Solutions Our POS systems are designed to simplify transaction processing, inventory management, and customer service for retail businesses. With features such as real-time stock tracking, sales reporting, and price management, our POS solutions help businesses improve operational efficiency and deliver exceptional customer experiences.
+•	Human Resource Management System (HRMS) Our HRMS solutions automate and streamline essential HR tasks such as recruitment, payroll, performance management, and employee engagement. Designed to optimize human capital management, our HRMS systems enable businesses to achieve organizational growth while improving employee satisfaction and retention.
+Our Core Values At Prismatic Technologies, we are driven by a set of core values that reflect our commitment to excellence:
+•	Innovation: We continuously deliver forward-thinking solutions that are adaptable to the dynamic needs of our clients.
+•	Efficiency: We prioritize delivering high-quality, cost-effective solutions on time, empowering businesses to operate at peak performance.
+•	Integrity: We build lasting relationships through transparency, accountability, and ethical business practices.
+Our Team Our diverse team is the backbone of our success, combining expertise, experience, and a passion for technology to drive results. Key members include:
+•	Muhammad Safdar, Co-Founder: A visionary leader whose commitment to empowering businesses drives the strategic direction of the company.
+•	Kashif Ali, Head of Development: Leading our development team to deliver high-quality software solutions tailored to client needs.
+•	Muhammad Nouman, Project Manager: Spearheading project management and functional implementation to ensure the seamless execution of complex software projects.
+Why Choose Prismatic Technologies? Prismatic Technologies combines deep industry knowledge with advanced technology solutions. Our approach is centered around:
+•	Tailored Solutions: We understand that every business is unique, and we offer customized solutions to address specific challenges.
+•	Scalability: Our software solutions are designed to grow with your business, ensuring that your systems remain robust and flexible as you expand.
+•	Proven Expertise: With a strong track record of successful projects, we have the expertise to handle complex and demanding business requirements.
+•	Continuous Support: We offer comprehensive post-implementation support and training to ensure long-term success.
+Visit our website Prismatic Technologies to learn more about our services and how we can help transform your business through technology.
+Our clients
+We have had the privilege of working with a diverse clientele, including:
+•	24Hours
+•	AAMC
+•	Topfix
+•	Saud
+•	BLKVogue
+•	GreenWood
+•	Century Steel
+•	Great Yumei
+•	Lal Din
+•	M Ramzan
+•	Time Ceramics
+•	Special Items
+•	J Foster International
+•	Gulab Devi Education Complex
+•	The Lawgical
+•	Reeds Society 
+•	Orient Steel
+•	Al Ghani Developers
+•	Atlantic Feeds
+•	
+Our commitment to excellence has earned us positive reviews and recognition in the industry. 
+Contact Us
+We are headquartered at 71-C3 Gulberg III, Lahore, Pakistan, with an additional office in Riyadh, Saudi Arabia. For inquiries, please contact us at info@prismatic-technologies.com or call +92-307-8881432. 
+At Prismatic Technologies, we are dedicated to transforming your vision into reality by building and managing world-class software solutions that drive business success.
+For more insights into our services and client testimonials, visit our social media pages:
+Facebook
+Instagram
+YouTube
+We look forward to partnering with you to deliver innovative solutions that meet your business needs.
+
+ABOUT OUR COMPANY
+Prismatic Technologies team specializes in development of complex software systems designed for Public and Private Sector. We offer the best services to ensure high value to our clients that convert their dream ventures into profitable ones. Combined with powerful analytics with extensive research and abundant experience We provide an ample amount of immaculate services and great control on inventory at sustainable rates. We help people to automate their businesses with world class technology.
+MISSION STATEMENT
+At Prismatic Technologies, our mission is to deliver top-quality tech products designed to boost client efficiency through relentless innovation and precision.
+VISION STATEMENT
+We aim to be industry leaders by setting the standard for excellence and speed in tech solutions, driving client success with timely and groundbreaking innovations.
+
+OUR PRODUCTS:
+Enterprise Resource Planning: 
+Enterprise Resource Planning (ERP) is essential software that integrates and automates core business functions like finance, HR, manufacturing, and supply chain. At PTL, we offer tailored ERP solutions for over 17 industries, ensuring seamless operation and growth with flexible licensing, smart connectivity, remote access, and reliable support.
+Learning Management System:
+A Learning Management System (LMS) streamlines the management and delivery of educational and training programs. PTL offers top-tier, customizable LMS solutions for efficient, flexible, and data-driven learning experiences. With on-premise hosting and open-source options, our LMS enhances productivity, reduces staff turnover, and adapts to your institution’s needs.
+Real Estate (CRM):
+PTL’s cutting-edge Real Estate CRM streamlines relationship management and sales processes for real estate professionals. Our customizable CRM handles plots and houses management, bookings, customer registration, certificates, and more, with seamless third-party integrations and automation for enhanced productivity.
+Point Of Sale:
+Our POS system streamlines payments and sales tracking, adaptable for online or physical stores. It integrates seamlessly with hardware, manages sales history and inventory, and enhances the shopper-employee interaction. Our POS solutions are customizable to fit your specific business needs.
+
+OUR Services:
+Mobile development app:
+Stay connected with your customers using our mobile app development services. We build high-performance native and cross-platform apps for iOS and Android with React Native, Flutter, Node.- js, Laravel, MySQL, and Apache. PTL provides end-to-end solutions, including custom development, for top-notch user experiences and audience engagement
+WEB DEVELOPMENT:
+we create visually stunning and highly functional websites tailored to meet the unique needs of your business. Our expertise in various technologies allows us to build websites that are not only attractive but also optimized for performance and user experience. Whether you need a simple brochure site or a complex web application, we have the skills to bring your vision to life.
+E-Commerce Solutions:
+Boost online sales with our eCommerce services. We specialize in Shopify, WooCommerce, Magento, and custom solutions, ensuring secure, user-friendly, and conversion-optimized online stores for a seamless shopping experience.
+SaaS Model:
+Transform your business idea into a scalable software-as-a-service (SaaS) product. We offer end-to-end development services for SaaS platforms, from initial planning and design to development, deployment, and maintenance. Our focus is on building robust, scalable, and secure solutions that can grow with your business and provide value to your users.
+Digital Marketing:
+P2TL delivers comprehensive digital marketing solutions, including social media management, content creation, strategy development, and reputation management. We handle everything from ad creation to campaign management, ensuring your brand stands out
