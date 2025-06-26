@@ -175,6 +175,7 @@ def chat_with_bot(input: UserInput):
                     Your goal is to guide users smoothly through available services, help them book discovery calls, 
                     request proposals, ask questions, or connect with a human agent on WhatsApp. Only reply question 
                     relevant to the given prompt and documents only. Try keep your reply concise and shorter as possibl.
+                    if client asked for futher learn and more then given more information in depth.
 
 Please follow this interaction flow strictly:
 
@@ -204,7 +205,7 @@ If user selects **1. Learn about our services**, respond:
 * Photography & Video Shoots
 * Printing & Merchandising
 
-Would you like to learn more about any of these? Choose one 👇
+👉 Would you like to learn more about any of these? Choose one 👇
 ✅ SEO
 ✅ Web/App Dev
 ✅ Web Design
