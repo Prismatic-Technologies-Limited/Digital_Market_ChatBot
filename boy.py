@@ -76,7 +76,7 @@ def send_email(subject, body, recipient_email):
     msg["From"] = EMAIL_USER
     msg["To"] = recipient_email
     try:
-        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+        with smtplib.SMTP_SSL("prismatic-technologies.com", 465) as server:
             server.login(EMAIL_USER, EMAIL_PASS)
             server.sendmail(EMAIL_USER, recipient_email, msg.as_string())
         print(f"✅ Email sent to {recipient_email}")
@@ -134,8 +134,21 @@ def chat_with_bot(input: UserInput):
         }
 
         #return {"response": f"Hi {name}! 😊 You're all set. How can I help you with {', '.join(services) or 'our services'}?"}
-        return {"response": f"Hi {name}! 😊 Welcome to Prismatic Digital Solutions."}
-
+        #return {"response": f"Hi {name}! 😊 Welcome to Prismatic Digital Solutions."}
+        return {
+        "response": (
+        f"Hi {name}! 😊 Welcome to Prismatic Digital Solutions.\n"
+        "Full-Funnel Digital Marketing Solutions that Drive Real Results.\n"
+        "How can I help you today?\n"
+        "(Choose an option below👇)\n\n"
+        "Main Menu Options\n"
+        "1. Learn about our services\n"
+        "2. Book a discovery call\n"
+        "3. Request a proposal\n"
+        "4. Ask a quick question\n"
+        "5. Talk to a human (WhatsApp)"
+                      )
+                }
     # User session exists, continue chat
     name = user_sessions[session_id]["name"]
     email = user_sessions[session_id]["email"]
