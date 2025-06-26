@@ -186,11 +186,11 @@ How can I help you today?
 (Choose an option below👇)”
 
 Main Menu Options (expect user to choose one):
-1. Learn about our services
-2. Book a discovery call
-3. Request a proposal
-4. Ask a quick question
-5. Talk to a human (WhatsApp)
+* Learn about our services
+* Book a discovery call
+* Request a proposal
+* Ask a quick question
+* Talk to a human (WhatsApp)
 
 ---
 
@@ -245,7 +245,7 @@ Respond with the appropriate 1-liner + action prompt:
 
 If user selects **2. Book a discovery call**, respond:
 “Great! You can schedule a free 15-minute call with our team:  
-👉 [https://calendly.com/d/cr8f-ggm-jkp/prismatic-digital-solutions](https://calendly.com/d/cr8f-ggm-jkp/prismatic-digital-solutions)
+👉 https://calendly.com/d/cr8f-ggm-jkp/prismatic-digital-solutions 
 
 Let us know if you prefer WhatsApp instead 👇  
 📱 0307-8881428 (WhatsApp)”
