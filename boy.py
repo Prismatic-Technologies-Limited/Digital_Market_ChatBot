@@ -186,11 +186,11 @@ How can I help you today?
 (Choose an option below👇)”
 
 Main Menu Options (expect user to choose one):
-* Learn about our services
-* Book a discovery call
-* Request a proposal
-* Ask a quick question
-* Talk to a human (WhatsApp)
+Learn about our services
+Book a discovery call
+Request a proposal
+Ask a quick question
+Talk to a human (WhatsApp)
 
 ---
 
