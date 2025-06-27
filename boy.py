@@ -88,11 +88,11 @@ def extract_email(text: str) -> Optional[str]:
     match = re.search(r"Email\s*:\s*([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})", text, re.IGNORECASE)
     return match.group(1).strip() if match else None
 
-def extract_services(text: str) -> List[str]:
-    match = re.search(r"Service\s*:\s*(.+)", text, re.IGNORECASE)
-    if match:
-        return [s.strip() for s in match.group(1).split(",")]
-    return []
+# def extract_services(text: str) -> List[str]:
+#     match = re.search(r"Service\s*:\s*(.+)", text, re.IGNORECASE)
+#     if match:
+#         return [s.strip() for s in match.group(1).split(",")]
+#     return []
 
 def extract_name_before_email(text: str) -> Optional[str]:
     lines = text.strip().splitlines()
@@ -122,15 +122,17 @@ def chat_with_bot(input: UserInput):
     if session_id not in user_sessions:
         name = extract_name_before_email(user_query)
         email = extract_email(user_query)
-        services = extract_services(user_query)
+        #services = extract_services(user_query)
 
         if not name or not email:
-            return {"response": "❗ Please send your details like:\nName: Your Name\nEmail: your@email.com\nService: Web Development"}
+            return {"response": """❗ Please send your details like:
+                    Name: Your Name
+                    Email: your@email.com"""}
 
         user_sessions[session_id] = {
             "name": name,
             "email": email,
-            "selected_services": services
+            #"selected_services": services
         }
 
         #return {"response": f"Hi {name}! 😊 You're all set. How can I help you with {', '.join(services) or 'our services'}?"}
@@ -152,7 +154,7 @@ def chat_with_bot(input: UserInput):
     # User session exists, continue chat
     name = user_sessions[session_id]["name"]
     email = user_sessions[session_id]["email"]
-    selected_services = ", ".join(user_sessions[session_id]["selected_services"])
+    #selected_services = ", ".join(user_sessions[session_id]["selected_services"])
 
     # Embedding + FAISS search
     query_embedding = np.array(embedding_model.encode([user_query], convert_to_numpy=True))
@@ -318,7 +320,7 @@ def end_chat(session_id: str):
     user_email = user_sessions.get(session_id, {}).get("email")
 
     if user_email:
-        send_email("Your Chat Transcript with Prismatic Technologies", chat_history, user_email)
+        send_email("Your Chat Transcript with Prismatic Digital Solutions", chat_history, user_email)
     send_email("New User Chat Transcript", chat_history, EMAIL_USER)
 
     del conversations[session_id]
